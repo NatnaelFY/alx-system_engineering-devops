@@ -1,1 +1,2 @@
-commited
+#!/bin/bash
+mv [[:uper:]]* /tmp/u
