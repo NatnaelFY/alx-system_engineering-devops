@@ -1,2 +1,2 @@
 #!/bin/bash
-sort /etc/passwd ; $grep -o /etc/passwd | perl -pe 
+sort /etc/passwd | cut -d':' -f 1,6 
