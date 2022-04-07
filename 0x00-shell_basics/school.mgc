@@ -1,1 +1,2 @@
-String School
+#!/bin/bash
+ln -s source_file myfile
