@@ -59,3 +59,4 @@ replaces any `phpp` extensions in the file `/var/www/html/wp-settings.php` with 
 
 But of course, it will never occur again, because we're programmers, and we never make
 errors! 
+![image](https://www.meme-arsenal.com/memes/e06b646269fbb79a05379b58976cb932.jpg)
